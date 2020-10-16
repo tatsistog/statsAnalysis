@@ -1,0 +1,7 @@
+"","difference","pvalue","signif.","LCL","UCL"
+"#4 heavy chains - #4 light chains",1.81975814005113,0,"***",0.989986827458379,2.64952945264388
+"#4 heavy chains - Non subset heavy chains",1.10412622080766,0.0068,"**",0.315374371333045,1.89287807028228
+"#4 heavy chains - Non subset light chains",2.40621827045264,0,"***",1.5493713917991,3.26306514910618
+"#4 light chains - Non subset heavy chains",-0.715631919243469,0.0746,".",-1.50438376871808,0.073119930231147
+"#4 light chains - Non subset light chains",0.586460130401509,0.1423," ",-0.202291719073107,1.37521197987612
+"Non subset heavy chains - Non subset light chains",1.30209204964498,0.0023,"**",0.472320737052227,2.13186336223773
